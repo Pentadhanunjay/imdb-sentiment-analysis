@@ -44,7 +44,8 @@ Also download the IMDb dataset from [Kaggle](https://www.kaggle.com/datasets/lak
 - `imdb_sentiment_pipeline.py`: Full end-to-end pipeline script
 - `IMDB Dataset.csv`: Input dataset (to be downloaded separately)
 
-**final output**
+**Final output**
+
 --- Top 5 Misclassified Reviews with Contributing Words ---
 
 Review #11: Actual: negative | Predicted: positive
